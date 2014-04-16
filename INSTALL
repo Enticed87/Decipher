@@ -1,9 +1,9 @@
-Building Bitcoin
+Building Deciphercoin
 
-See doc/readme-qt.rst for instructions on building Bitcoin-Qt,
+See doc/readme-qt.rst for instructions on building Deciphercoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Bitcoin.
+implementation of Deciphercoin.
 
-See doc/build-*.txt for instructions on building bitcoind,
+See doc/build-*.txt for instructions on building deciphercoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Bitcoin.
+implementation of Deciphercoin.
