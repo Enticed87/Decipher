@@ -1,4 +1,4 @@
-Deciphercoin integration/staging tree
+Deciphercoin
 ================================
 
 
