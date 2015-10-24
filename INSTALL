@@ -4,6 +4,6 @@ See doc/readme-qt.rst for instructions on building Deciphercoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
 implementation of Deciphercoin.
 
-See doc/build-*.txt for instructions on building deciphercoind,
+See doc/build-*.txt file for instructions on building deciphercoind,
 the intended-for-services, no-graphical-interface, reference
 implementation of Deciphercoin.
